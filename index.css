@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 20px 0px;
+  }
+  #Add{
+    background-color: #4CAF50;
+  }
+  #Sub{
+    background-color: #008CBA;
+  }
+  #Div{
+    background-color: #f44336;
+  }
+  #Mult{
+    background-color: #e7e7e7;
+  }
+  
+  span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
